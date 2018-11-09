@@ -3,6 +3,7 @@
 This repository contains the Python jupyter notebook for Statistics Modeling including multi-linear regression, Lasso Regression, PCA, TIme series(ARMA), Markov Process, clustering( Random Forest...) Logistic Regression etc..
 
 ### HW4 Markov Process & Time Series
+#### See the notebook Link Here(ADS_HW4_xj655.ipynb)
 1. Data Wrangling
 > I use the data from ZillowNeighborhoodsNY.shp shapefile document and read with Geopandas.
 > I choose the specific 5 neighbourhoods.
